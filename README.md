@@ -1,2 +1,2 @@
 # rock-paper-scissors
- Rock, Paper, Scissors is an interactive Python console application that brings the classic game to life with the added twist of tracking your victories against the computer.
+ This Rock-Paper-Scissors game is a simple yet entertaining console-based version of the classic hand game that everyone loves. Designed to run in Python, it pits the player against the computer in a series of rounds of the traditional Rock, Paper, Scissors game. Whether you're looking for a quick distraction or a way to settle decisions, this game offers a fun and straightforward gaming experience.
